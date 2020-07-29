@@ -1,7 +1,9 @@
 # Japanese_word2vec_pretrained_model
 This is a word2vec model trained by Wikipedia in Japanese. It uses the training data of various user dictionaries, including Japanese names and place names
 
-
+google drive:
+model:https://drive.google.com/file/d/1fqxbb2AdfAw_2ofc2Gfcal1Cj0UI93Wy/view?usp=sharing
+dictionary:https://drive.google.com/file/d/1GczBiaAcO0VwEUfbsLCDVa8-oZGEPdQL/view?usp=sharing
 
 We used the Ukiyo-e terminology dictionary, the Dictionary of Japanese Personal Names, and the Dictionary of Ancient Japanese Geographical Names to create a user dictionary and optimize the tokenization of training data. 
 The tokenization is shown in Fig.
