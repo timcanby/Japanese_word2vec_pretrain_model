@@ -7,7 +7,7 @@ dictionary:https://drive.google.com/file/d/1GczBiaAcO0VwEUfbsLCDVa8-oZGEPdQL/vie
 
 We used the Ukiyo-e terminology dictionary, the Dictionary of Japanese Personal Names, and the Dictionary of Ancient Japanese Geographical Names to create a user dictionary and optimize the tokenization of training data. 
 The tokenization is shown in Fig.
-![](tokenization.png)
+![](tokenization.jpeg)
 
 Table shows the results of Japanese words similarity under our retrained word2vec model
 
