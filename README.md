@@ -5,11 +5,11 @@ This is a word2vec model trained by Wikipedia in Japanese. It uses the training 
 
 We used the Ukiyo-e terminology dictionary, the Dictionary of Japanese Personal Names, and the Dictionary of Ancient Japanese Geographical Names to create a user dictionary and optimize the tokenization of training data. 
 The tokenization is shown in Fig.
-![](image/tokenization.png)
+![](tokenization.png)
 
 Table shows the results of Japanese words similarity under our retrained word2vec model
 
-==============================================================================
+=============================================================================/n
 Input	Similar words (top 5)
 神奈川沖浪裏	富嶽三十六景: 0.72 凱風快晴: 0.71浪花百景: 0.66名所江戸百景: 0.63
 歌川広重	渓斎英泉: 0.74歌川国芳: 0.73豊原国周: 0.72歌川国輝: 0.72歌川貞秀: 0.71
